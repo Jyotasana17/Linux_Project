@@ -1,0 +1,23 @@
+<svg width="800" height="320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="10" ry="10" fill="#1e1e1e"/>
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+  <text x="85" y="25" fill="#888" font-family="monospace" font-size="12">jyotasana17@ubuntu:~/Linux-Chotu — bash</text>
+  <text x="20" y="60" fill="#ffffff" font-family="'Courier New', Courier, monospace" font-size="14">
+    <tspan x="20" dy="0">jyotasana17@ubuntu:~/Linux-Chotu$ ./03_dir_audit.sh</tspan>
+    <tspan x="20" dy="1.5em" fill="#00ffff">--- Apache2 Directory Security &amp; Disk Audit ---</tspan>
+    <tspan x="20" dy="1.2em" fill="#555555">------------------------------------------------------------</tspan>
+    <tspan x="20" dy="1.2em" font-weight="bold">Directory Path            | Permissions  | Size      </tspan>
+    <tspan x="20" dy="1.2em" fill="#555555">------------------------------------------------------------</tspan>
+    <tspan x="20" dy="1.2em">/etc/apache2              | drwxr-xr-x   | 4.0K      </tspan>
+    <tspan x="20" dy="1.2em">/var/log/apache2          | drwxr-x---   | 1.2M      </tspan>
+    <tspan x="20" dy="1.2em">/var/www/html             | drwxr-xr-x   | 4.0K      </tspan>
+    <tspan x="20" dy="1.2em">/usr/sbin                 | drwxr-xr-x   | 12M       </tspan>
+    <tspan x="20" dy="1.2em">/tmp                      | drwxrwxrwt   | 512K      </tspan>
+    <tspan x="20" dy="1.2em" fill="#555555">------------------------------------------------------------</tspan>
+    <tspan x="20" dy="1.2em" fill="#00ff00">Audit Complete.</tspan>
+    <tspan x="20" dy="1.5em"></tspan>
+    <tspan x="20" dy="1.2em">jyotasana17@ubuntu:~/Linux-Chotu$ </tspan>
+  </text>
+</svg>

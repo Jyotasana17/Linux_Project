@@ -1,0 +1,23 @@
+<svg width="800" height="420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="10" ry="10" fill="#1e1e1e"/>
+  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+  <text x="85" y="25" fill="#888" font-family="monospace" font-size="12">jyotasana17@ubuntu:~/Linux-Chotu — bash</text>
+  <text x="20" y="60" fill="#ffffff" font-family="'Courier New', Courier, monospace" font-size="14">
+    <tspan x="20" dy="0">jyotasana17@ubuntu:~/Linux-Chotu$ ./05_manifesto_gen.sh</tspan>
+    <tspan x="20" dy="1.5em" fill="#00ffff">--- The Open Source Manifesto Generator ---</tspan>
+    <tspan x="20" dy="1.5em"></tspan>
+    <tspan x="20" dy="0">What is your sysadmin handle/alias? <tspan fill="#00ff00">jyotasana17</tspan></tspan>
+    <tspan x="20" dy="1.2em">If you could host any type of website on your Apache server, what would it be? <tspan fill="#00ff00">Tech Blog</tspan></tspan>
+    <tspan x="20" dy="1.2em">In one word, what does an 'open web' mean to you? <tspan fill="#00ff00">Freedom</tspan></tspan>
+    <tspan x="20" dy="1.8em" fill="#00ff00">SUCCESS: Your manifesto has been generated and saved to web_manifesto.txt.</tspan>
+    <tspan x="20" dy="1.2em" fill="#ffff00">--- PREVIEW ---</tspan>
+    <tspan x="20" dy="1.2em" fill="#555555">------------------------------------------------------------</tspan>
+    <tspan x="20" dy="1.2em">I, jyotasana17, stand as a guardian of the digital frontier using tools like the Apache HTTP Server. My vision is to host a Tech Blog, ensuring that information remains accessible to all humanity. To me, the core of an open and free internet is defined by one single principle: Freedom.</tspan>
+    <tspan x="20" dy="1.5em"></tspan>
+    <tspan x="20" dy="1.2em">Manifesto Generated On: Sat Mar 28 13:34:15 UTC 2026</tspan>
+    <tspan x="20" dy="1.2em" fill="#555555">------------------------------------------------------------</tspan>
+    <tspan x="20" dy="2em">jyotasana17@ubuntu:~/Linux-Chotu$ </tspan>
+  </text>
+</svg>
